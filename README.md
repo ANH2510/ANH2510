@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANH2510
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Industry
 - 🌱 I’m currently learning Quantitative Economics
 - 💞️ I’m looking to collaborate on Data Field
 - 📫 How to reach me: https://www.linkedin.com/in/le-xuan-anh-nguyen-612570102/
